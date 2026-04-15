@@ -23,13 +23,13 @@ Beyond writing code, I care deeply about system architecture, observability, and
 I select the right tool for the job. Here are the technologies I work with most frequently:
 
 **Languages & Backend** <br>
-<img src="https://skillicons.dev/icons?i=ts,js,go,rust,nodejs,nestjs,express" alt="Backend Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,rust,c++,nodejs,bun,nestjs,express" alt="Backend Stack" />
 
 **Frontend** <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,tailwind" alt="Frontend Stack" />
 
 **Databases, Cache & Message Brokers** <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,prisma" alt="Data and Brokers" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,kafka,prisma,knex,sequelize" alt="Data and Brokers" />
 
 **Cloud, DevOps & Testing** <br>
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,nginx,jest,cypress,bash,git" alt="DevOps and Testing" />
