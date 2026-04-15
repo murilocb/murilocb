@@ -39,7 +39,7 @@ I select the right tool for the job. Here are the technologies I work with most 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/murilocb?theme=dracula&show_icons=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=murilocb&theme=dracula&hide_border=true&title_color=2CA5E0" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilocb&layout=compact&theme=dracula&hide_border=true&title_color=2CA5E0" alt="Top Languages" />
 </div>
 
