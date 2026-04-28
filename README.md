@@ -12,10 +12,6 @@ Self-taught developer with over 5 years of professional experience across the fu
 
 Beyond writing code, I care deeply about system architecture, observability, and mentoring.
 
-- 🔭 **Currently working on:** [Your current project or company focus]
-- 🌱 **Currently exploring:** [e.g., Advanced Rust, System Design patterns, Cloud Native architectures]
-- 💬 **Ask me about:** Microservices, Event-Driven Architecture, Full Stack optimization.
-
 ---
 
 ### 🛠️ Tech Stack & Architecture
@@ -50,7 +46,6 @@ I select the right tool for the job. Here are the technologies I work with most 
 <p align="center">
   <a href="https://linkedin.com/in/murilocb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/Murilocb" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://wa.me/5518981775017" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
